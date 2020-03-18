@@ -1,0 +1,24 @@
+/*
+Faccio in modo di poter distanziare le card nella pagina home
+dal margine alto ed il margine basso
+*/
+
+.card {
+    margin: 50px 5px 35px 5px;
+}
+
+
+/*
+Faccio in modo di poter distanziare il testo delle card nella pagina home
+dal margine alto della card ed il margine basso della card
+*/
+
+.card-body {
+    padding: 15px;
+}
+
+#pièDiPagina {
+    background-color: #343a40;
+    color: white;
+    padding: 15px;
+}
